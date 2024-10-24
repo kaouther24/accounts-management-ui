@@ -27,7 +27,7 @@ To run the project locally, follow these steps:
 
 1. **Clone the repository**:
    ```bash
-   git clone https://github.com/kaouther24/accounts-management-ui
+   git clone https://github.com/kaouther24/accounts-management-ui.git
    cd accounts-management-ui
 
 2. **Install dependencies**:
